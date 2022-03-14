@@ -1,0 +1,68 @@
+,season,round,win_seed,win_market,win_name,win_alias,win_school_ncaa,win_pts,lose_seed,lose_market,lose_name,lose_school_ncaa,lose_pts
+0,2013,64,06,Butler,Bulldogs,BUT,Butler,68,11,Bucknell,Bison,Bucknell,56
+1,2013,64,12,California,Golden Bears,CAL,California,64,05,UNLV,Rebels,UNLV,61
+2,2013,64,07,Illinois,Fighting Illini,ILL,Illinois,57,10,Colorado,Buffaloes,Colorado,49
+3,2013,64,01,Indiana,Hoosiers,IND,Indiana,83,16,James Madison,Dukes,James Madison,62
+4,2013,32,01,Indiana,Hoosiers,IND,Indiana,58,09,Temple,Owls,Temple,52
+5,2013,68,16,James Madison,Dukes,JMU,James Madison,68,16,LIU Brooklyn,Blackbirds,LIU Brooklyn,55
+6,2013,32,02,Miami (FL),Hurricanes,MIA,Miami (FL),63,07,Illinois,Fighting Illini,Illinois,59
+7,2013,64,02,Miami (FL),Hurricanes,MIA,Miami (FL),78,15,Pacific,Tigers,Pacific,49
+8,2013,64,04,Syracuse,Orange,SYR,Syracuse,81,13,Montana,Grizzlies,Montana,34
+9,2013,8,04,Syracuse,Orange,SYR,Syracuse,55,03,Marquette,Golden Eagles,Marquette,39
+10,2013,16,04,Syracuse,Orange,SYR,Syracuse,61,01,Indiana,Hoosiers,Indiana,50
+11,2013,32,04,Syracuse,Orange,SYR,Syracuse,66,12,California,Golden Bears,California,60
+12,2013,64,09,Temple,Owls,TEM,Temple,76,08,North Carolina State,Wolfpack,NC State,72
+13,2013,16,03,Marquette,Golden Eagles,MARQ,Marquette,71,02,Miami (FL),Hurricanes,Miami (FL),61
+14,2013,64,03,Marquette,Golden Eagles,MARQ,Marquette,59,14,Davidson,Wildcats,Davidson,58
+15,2013,32,03,Marquette,Golden Eagles,MARQ,Marquette,74,06,Butler,Bulldogs,Butler,72
+16,2013,32,01,Kansas,Jayhawks,KU,Kansas,70,08,North Carolina,Tar Heels,North Carolina,58
+17,2013,64,01,Kansas,Jayhawks,KU,Kansas,64,16,Western Kentucky,Hilltoppers,Western Ky.,57
+18,2013,32,03,Florida,Gators,FLA,Florida,78,11,Minnesota,Golden Gophers,Minnesota,64
+19,2013,16,03,Florida,Gators,FLA,Florida,62,15,Florida Gulf Coast,Eagles,FGCU,50
+20,2013,64,03,Florida,Gators,FLA,Florida,79,14,Northwestern State,Demons,Northwestern St.,47
+21,2013,64,08,North Carolina,Tar Heels,UNC,North Carolina,78,09,Villanova,Wildcats,Villanova,71
+22,2013,64,05,Virginia Commonwealth,Rams,VCU,VCU,88,12,Akron,Zips,Akron,42
+23,2013,32,15,Florida Gulf Coast,Eagles,FGCU,FGCU,81,07,San Diego State,Aztecs,San Diego St.,71
+24,2013,64,15,Florida Gulf Coast,Eagles,FGCU,FGCU,78,02,Georgetown,Hoyas,Georgetown,68
+25,2013,32,04,Michigan,Wolverines,MICH,Michigan,78,05,Virginia Commonwealth,Rams,VCU,53
+26,2013,8,04,Michigan,Wolverines,MICH,Michigan,79,03,Florida,Gators,Florida,59
+27,2013,4,04,Michigan,Wolverines,MICH,Michigan,61,04,Syracuse,Orange,Syracuse,56
+28,2013,64,04,Michigan,Wolverines,MICH,Michigan,71,13,South Dakota State,Jackrabbits,South Dakota St.,56
+29,2013,16,04,Michigan,Wolverines,MICH,Michigan,87,01,Kansas,Jayhawks,Kansas,85
+30,2013,64,11,Minnesota,Golden Gophers,MINN,Minnesota,83,06,UCLA,Bruins,UCLA,63
+31,2013,64,07,San Diego State,Aztecs,SDSU,San Diego St.,70,10,Oklahoma,Sooners,Oklahoma,55
+32,2013,64,08,Colorado State,Rams,CSU,Colorado St.,84,09,Missouri,Tigers,Missouri,72
+33,2013,8,01,Louisville,Cardinals,LOU,Louisville,85,02,Duke,Blue Devils,Duke,63
+34,2013,2,01,Louisville,Cardinals,LOU,Louisville,82,04,Michigan,Wolverines,Michigan,76
+35,2013,32,01,Louisville,Cardinals,LOU,Louisville,82,08,Colorado State,Rams,Colorado St.,56
+36,2013,4,01,Louisville,Cardinals,LOU,Louisville,72,09,Wichita State,Shockers,Wichita St.,68
+37,2013,16,01,Louisville,Cardinals,LOU,Louisville,77,12,Oregon,Ducks,Oregon,69
+38,2013,64,01,Louisville,Cardinals,LOU,Louisville,79,16,North Carolina A&T,Aggies,N.C. A&T,48
+39,2013,64,06,Memphis,Tigers,MEM,Memphis,54,11,Saint Mary's,Gaels,Saint Mary's (CA),52
+40,2013,32,03,Michigan State,Spartans,MSU,Michigan St.,70,06,Memphis,Tigers,Memphis,48
+41,2013,64,03,Michigan State,Spartans,MSU,Michigan St.,65,14,Valparaiso,Crusaders,Valparaiso,54
+42,2013,32,12,Oregon,Ducks,ORE,Oregon,74,04,Saint Louis,Billikens,Saint Louis,57
+43,2013,64,12,Oregon,Ducks,ORE,Oregon,68,05,Oklahoma State,Cowboys,Oklahoma St.,55
+44,2013,64,04,Saint Louis,Billikens,SLU,Saint Louis,64,13,New Mexico State,Aggies,New Mexico St.,44
+45,2013,68,11,Saint Mary's,Gaels,SMC,Saint Mary's (CA),67,11,Middle Tennessee,Blue Raiders,Middle Tenn.,54
+46,2013,64,07,Creighton,Bluejays,CREI,Creighton,67,10,Cincinnati,Bearcats,Cincinnati,63
+47,2013,16,02,Duke,Blue Devils,DUKE,Duke,71,03,Michigan State,Spartans,Michigan St.,61
+48,2013,32,02,Duke,Blue Devils,DUKE,Duke,66,07,Creighton,Bluejays,Creighton,50
+49,2013,64,02,Duke,Blue Devils,DUKE,Duke,73,15,Albany,Great Danes,Albany (NY),61
+50,2013,68,16,North Carolina A&T,Aggies,NCAT,N.C. A&T,73,16,Liberty,Flames,Liberty,72
+51,2013,64,10,Iowa State,Cyclones,ISU,Iowa St.,76,07,Notre Dame,Fighting Irish,Notre Dame,58
+52,2013,68,13,La Salle,Explorers,LAS,La Salle,80,13,Boise State,Broncos,Boise St.,71
+53,2013,64,13,La Salle,Explorers,LAS,La Salle,63,04,Kansas State,Wildcats,Kansas St.,61
+54,2013,32,13,La Salle,Explorers,LAS,La Salle,76,12,Ole Miss,Rebels,Ole Miss,74
+55,2013,16,02,Ohio State,Buckeyes,OSU,Ohio St.,73,06,Arizona,Wildcats,Arizona,70
+56,2013,32,02,Ohio State,Buckeyes,OSU,Ohio St.,78,10,Iowa State,Cyclones,Iowa St.,75
+57,2013,64,02,Ohio State,Buckeyes,OSU,Ohio St.,95,15,Iona,Gaels,Iona,70
+58,2013,64,06,Arizona,Wildcats,ARIZ,Arizona,81,11,Belmont,Bruins,Belmont,64
+59,2013,32,06,Arizona,Wildcats,ARIZ,Arizona,74,14,Harvard,Crimson,Harvard,51
+60,2013,64,01,Gonzaga,Bulldogs,GONZ,Gonzaga,64,16,Southern University,Jaguars,Southern U.,58
+61,2013,64,14,Harvard,Crimson,HARV,Harvard,68,03,New Mexico,Lobos,New Mexico,62
+62,2013,64,12,Ole Miss,Rebels,MISS,Ole Miss,57,05,Wisconsin,Badgers,Wisconsin,46
+63,2013,64,09,Wichita State,Shockers,WICH,Wichita St.,73,08,Pittsburgh,Panthers,Pittsburgh,55
+64,2013,16,09,Wichita State,Shockers,WICH,Wichita St.,72,13,La Salle,Explorers,La Salle,58
+65,2013,32,09,Wichita State,Shockers,WICH,Wichita St.,76,01,Gonzaga,Bulldogs,Gonzaga,70
+66,2013,8,09,Wichita State,Shockers,WICH,Wichita St.,70,02,Ohio State,Buckeyes,Ohio St.,66
