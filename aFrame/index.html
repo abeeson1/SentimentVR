@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>NCAA VR DataVis</title>
+
+        <script src="//aframe.io/releases/0.8.2/aframe.min.js"></script>
+        <script src="https://unpkg.com/aframe-event-set-component@^4.0.0/dist/aframe-event-set-component.min.js"></script>
+        <script src="https://rawgit.com/fernandojsg/aframe-teleport-controls/master/dist/aframe-teleport-controls.min.js"></script>
+        <script src="https://rawgit.com/protyze/aframe-curve-component/master/dist/aframe-curve-component.min.js"></script>
+        <script src="https://rawgit.com/bryik/aframe-bmfont-text-component/master/dist/aframe-bmfont-text-component.js"></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+    </head>
+
+
+
+    <body>
+        <!-- <a-scene> -->
+        <a-scene cursor="rayOrigin: mouse">
+
+            <a-assets>
+            </a-assets>
+
+            <a-entity id="cameraRig">
+                <a-entity id="head" camera wasd-controls="fly: true" look-controls></a-entity>
+                <!-- <a-entity id="hand" raycaster="showLine: true"
+                            line="color: white; opacity: 0.25" laser-controls="hand:right"
+                            teleport-controls="cameraRig: #cameraRig;
+                                                teleportOrigin: #head;
+                                                button: trackpad;
+                                                curveShootingSpeed: 30;"
+                            gearvr-controls laser-controls></a-entity> -->
+
+                            <!-- collisionEntities: #telePortCollisionEntity; -->
+            </a-entity>
+
+            <!-- <a-plane id="telePortCollisionEntity"
+                        position="0 -1 0"
+                        scale="500 500 1"
+                        rotation="-90 0 0"
+                        material="visible:false"
+                        >
+            </a-plane> -->
+
+            <a-sky color="#170F21"></a-sky>
+
+
+
+
+        </a-scene>
+
+        <!-- <script src="js/script_for_aFrame.js"></script> -->
+        <script src="js/script_for_aFrame_d3.js"></script>
+
+    </body>
+</html>
